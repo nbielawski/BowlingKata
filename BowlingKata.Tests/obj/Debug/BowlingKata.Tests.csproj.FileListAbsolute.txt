@@ -1,0 +1,16 @@
+C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata.Tests\bin\Debug\BowlingKata.Tests.dll
+C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata.Tests\bin\Debug\BowlingKata.Tests.pdb
+C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata.Tests\bin\Debug\BowlingKata.dll
+C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata.Tests\bin\Debug\BowlingKata.pdb
+C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata.Tests\obj\Debug\BowlingKata.Tests.csprojAssemblyReference.cache
+C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata.Tests\obj\Debug\BowlingKata.Tests.csproj.CoreCompileInputs.cache
+C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata.Tests\obj\Debug\BowlingKata.Tests.csproj.CopyComplete
+C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata.Tests\obj\Debug\BowlingKata.Tests.dll
+C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata.Tests\obj\Debug\BowlingKata.Tests.pdb
