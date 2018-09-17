@@ -4,3 +4,9 @@ C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata\obj\Debug\BowlingKata.csprojAs
 C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata\obj\Debug\BowlingKata.csproj.CoreCompileInputs.cache
 C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata\obj\Debug\BowlingKata.dll
 C:\Users\nickb.IN\Desktop\BowlingKata\BowlingKata\obj\Debug\BowlingKata.pdb
+C:\Dev\BowlingKata\BowlingKata\bin\Debug\BowlingKata.dll
+C:\Dev\BowlingKata\BowlingKata\bin\Debug\BowlingKata.pdb
+C:\Dev\BowlingKata\BowlingKata\obj\Debug\BowlingKata.csprojAssemblyReference.cache
+C:\Dev\BowlingKata\BowlingKata\obj\Debug\BowlingKata.csproj.CoreCompileInputs.cache
+C:\Dev\BowlingKata\BowlingKata\obj\Debug\BowlingKata.dll
+C:\Dev\BowlingKata\BowlingKata\obj\Debug\BowlingKata.pdb

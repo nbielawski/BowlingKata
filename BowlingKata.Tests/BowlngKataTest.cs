@@ -139,19 +139,47 @@ namespace BowlingKata.Tests
             Assert.AreEqual(300, g.Score());
         }
 
+
         [TestMethod]
-        [ExpectedException(typeof(ArgumentException), "Can only have a max of 10 Pins per Frame")]
-        public void TestRollGreaterThanTenThrowsException()
+        public void DPinRowSpare()
         {
-            g.Roll(11);
+            g.Roll(2);
+            g.Roll(3);
+            g.Roll(5);
+            RollMultiple(27, 0);
+
+            Assert.AreEqual(10, g.Score());
+        }
+
+        //[TestMethod]
+        //public void DPinRowSparePlusBonus()
+        //{
+        //    g.Roll(2);
+        //    g.Roll(3);
+        //    g.Roll(5);
+        //    g.Roll(1);
+        //    RollMultiple(26, 0);
+        //    Assert.AreEqual(12, g.Score());
+        //}
+
+        [TestMethod]
+        public void DuckPinRollStrike()
+        {
+            RollStrike();
+            RollMultiple(27, 0);
+
+            Assert.AreEqual(10, g.Score());
         }
 
         [TestMethod]
-        [ExpectedException(typeof(ArgumentException), "A single roll cant Knock down more than 10 pins")]
-        public void TestFrameRollsMoreThanTenPinsThrowsException()
+        public void DUCKPINALLGUTTERS()
         {
-            RollMultiple(2, 9);
+            RollMultiple(30, 0);
+
+            Assert.AreEqual(0, g.Score());
         }
+
+        
 
         private void RollStrike()
         {

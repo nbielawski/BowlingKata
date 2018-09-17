@@ -12,7 +12,6 @@ namespace BowlingKata
 
         public void Roll(int pins)
         {
-            Validation(pins);
             rolls.Add(pins);
         }
 
@@ -70,19 +69,6 @@ namespace BowlingKata
             return rolls[frameIndex] + rolls[frameIndex + 1];
         }
 
-        private void Validation(int pins)
-        {
-            if (rolls.Count % 2 > 0 && rolls.Count < 20)
-            {
-                if ((rolls[rolls.Count - 1] < 10) && (rolls[rolls.Count - 1] + pins > 10))
-                {
-                    throw new ArgumentException("Can only have a max of 10 Pins per Frame");
-                }
-            }
-            if (pins > 10)
-            {
-                throw new ArgumentException("A single roll cant Knock down more than 10 pins");
-            }
-        }
+    
     }
 }
